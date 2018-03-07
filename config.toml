@@ -1,62 +1,110 @@
-baseURL = "http://example.com/"
-languageCode = "en-us"
-title = "Minimal"
+baseURL = "http://charlie.fougeray.net"
+languageCode = "fr-FR"
+title = "Charlie Fougeray"
 theme = "minimal"
-disqusShortname = "username" # delete this to disable disqus comments
-googleAnalytics = ""
+#disqusShortname = "username" # delete this to disable disqus comments
+googleAnalytics = "UA-2239485-1"
 
 [params]
-    author = "Calin Tataru"
-    description = "Personal blog theme powered by Hugo"
-    githubUsername = "#"
-    accent = "red"
+    author = "Charlie Fougeray"
+    description = "From screen to green"
+    place = "📍Bordeaux, France"
+    avatar = "charlie-fougeray.png"
+    copyright = "© 2018 Charlie Fougeray • [A propos](/about)"
+    githubUsername = "#chaaarly"
+    accent = "green"
     showBorder = true
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
-    highlight = true
+    highlight = false
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    css = ["/css/custom.css"]
 
-[[menu.main]]
-    url = "/"
-    name = "Home"
-    weight = 1
 
-[[menu.main]]
-    url = "/post/"
-    name = "Posts"
-    weight = 2
+### MAIN MENU
 
-[[menu.main]]
-    url = "/project/"
-    name = "Projects"
-    weight = 3
+#[[menu.main]]
+#    url = "/"
+#    name = "Home"
+#    weight = 1
 
+#[[menu.main]]
+#    url = "/about"
+#    name = "About"
+#    weight = 2
+
+#[[menu.main]]
+#    url = "/posts/"
+#    name = "Posts"
+#    weight = 2
+
+### SOCIAL MENU
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
 # The list of available icons can be found at http://fontawesome.io/icons/
 
 [[menu.icon]]
-    url = "mailto:me@example.com"
-    name = "envelope-o"
-    weight = 1
-
-[[menu.icon]]
-    url = "https://github.com/username/"
-    name = "github"
+    identifier = "twitter"
+    url = "https://twitter.com/chaaarly"
+    name = "Twitter"
     weight = 2
+    pre = "<i class='fab fa-twitter'></i>"
 
 [[menu.icon]]
-    url = "https://twitter.com/username/"
-    name = "twitter"
+    identifier = "instagram"
+    url = "https://www.instagram.com/chaaarly"
+    name = "Instagram"
     weight = 3
+    pre = "<i class='fab fa-instagram'></i>"
 
 [[menu.icon]]
-    url = "https://www.linkedin.com/in/username/"
-    name = "linkedin"
+    identifier = "facebook"
+    url = "https://www.facebook.com/chaaarly"
+    name = "Facebook"
     weight = 4
+    pre = "<i class='fab fa-facebook'></i>"
 
 [[menu.icon]]
-    url = "https://www.stackoverflow.com/username/"
-    name = "stack-overflow"
-    weight = 5
+    identifier = "linkedin"
+    url = "https://www.linkedin.com/in/chaaarly"
+    name = "LinkedIn"
+    weight = 10
+    pre = "<i class='fab fa-linkedin'></i>"
+
+[[menu.icon]]
+    identifier = "github"
+    url = "https://github.com/chaaarly"
+    name = "GitHub"
+    weight = 12
+    pre = "<i class='fab fa-github'></i>"
+
+#[[menu.icon]]
+#    url = "https://www.stackoverflow.com/chaaarly/"
+#    name = "stack-overflow"
+#    weight = 14
+
+#[[menu.icon]]
+#    identifier = "viadeo"
+#    url = "http://www.viadeo.com/p/0021hom42pev48dv"
+#    name = "Viadeo"
+#    weight = 12
+#    pre = "<i class='fab fa-viadeo'></i>"
+
+[[menu.icon]]
+    identifier = "golf-ball"
+    url = "https://twitter.com/chaaarly_golf"
+    name = "Twitter Golf"
+    weight = 20
+
+[[menu.icon]]
+    identifier = "tv"
+    url = "https://www.tvtime.com/en/user/69547/profile"
+    name = "TV"
+    weight = 21
+
+[[menu.icon]]
+    identifier = "envelope"
+    url = "mailto:charlie[dot]fougeray[at]gmail[dot]com"
+    name = "Mail"
+    weight = 10

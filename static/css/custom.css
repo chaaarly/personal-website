@@ -1,0 +1,25 @@
+/* general */
+
+main {
+  font-size: 2.5vh;
+}
+
+/* intro */
+
+.intro {
+  margin: 0;
+  transform: none;
+}
+
+.intro > h1 {
+  font-size: 6vh;
+}
+
+.intro > h2 {
+  font-size: 4vmin;
+}
+
+.intro > h3 {
+  color: #757575;
+  font-size: 3vmin;
+}

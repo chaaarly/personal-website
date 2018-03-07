@@ -1,0 +1,22 @@
+{{ partial "header" . }}
+
+<main>
+
+    <div class="avatar">
+        <img class="img-circle" src="{{ .Site.BaseURL }}img/{{ .Site.Params.avatar }}" alt="Responsive image">
+    </div>
+
+    <div class="intro">
+
+        <h1>{{ .Site.Title }}</h1>
+
+        <h2>{{ markdownify .Site.Params.Description }}</h2>
+        <h3>{{ markdownify .Site.Params.Place }}</h3>
+
+        <br/><div class="text-justify">{{ .Content }}</div>
+
+    </div>
+
+</main>
+
+{{ partial "footer" . }}
