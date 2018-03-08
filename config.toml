@@ -7,11 +7,13 @@ googleAnalytics = "UA-2239485-1"
 
 [params]
     author = "Charlie Fougeray"
-    description = "From screen to green"
+    description = "from screen to green"
+    keywords = "Développeur, Consultant technique, Application Mobile, iOS, watchOS, tvOS, Objective-c, Swift, IoT, Domotique, Golf"
     place = "📍Bordeaux, France"
     avatar = "charlie-fougeray.png"
+    favico = "favico.png"
     #copyright = "© 2018 Charlie Fougeray • [A propos](/about)"
-    copyright = "© 2018 Charlie Fougeray • Ce site est généré par [Hugo](https://gohugo.io) et le thème inspiré de [Minimal](https://github.com/calintat/minimal)"
+    copyright = "© 2018 Charlie Fougeray • Site généré par [Hugo](https://gohugo.io) et thème inspiré de [Minimal](https://github.com/calintat/minimal)"
     githubUsername = "#chaaarly"
     accent = "green"
     showBorder = true
@@ -95,17 +97,17 @@ googleAnalytics = "UA-2239485-1"
 [[menu.icon]]
     identifier = "golf-ball"
     url = "https://twitter.com/chaaarly_golf"
-    name = "Twitter Golf"
+    name = "Twitter 100% Golf"
     weight = 20
 
 [[menu.icon]]
     identifier = "tv"
     url = "https://www.tvtime.com/en/user/69547/profile"
-    name = "TV"
+    name = "TV Time"
     weight = 21
 
 [[menu.icon]]
     identifier = "envelope"
     url = "mailto:charlie[dot]fougeray[at]gmail[dot]com"
-    name = "Mail"
-    weight = 10
+    name = "Mail me !"
+    weight = 100

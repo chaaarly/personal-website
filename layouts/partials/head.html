@@ -3,7 +3,14 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>{{ .Title }}</title>
+        <title>{{ .Site.Title }} - {{ .Title }}</title>
+        <meta name="description" content="{{ .Site.Title }}, {{ .Site.Params.Description }}" />
+        {{ if .Site.Params.Keywords }}
+        <meta name="keywords" content="{{ .Site.Params.Keywords }}" />
+        {{ end }}
+        {{ if .Site.Params.Favico }}
+        <link rel="shortcut icon" type="image/x-icon" href="/img/{{ .Site.Params.Favico }}" />
+        {{ end }}
         {{ partial "css" . }} {{ partial "js" . }} {{ .Hugo.Generator }}
         {{ if .RSSLink }}
         <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
