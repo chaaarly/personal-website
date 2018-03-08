@@ -1,4 +1,4 @@
-baseURL = "http://charlie.fougeray.net"
+baseURL = "http://charlie.fougeray.net/"
 languageCode = "fr-FR"
 title = "Charlie Fougeray"
 theme = "minimal"
