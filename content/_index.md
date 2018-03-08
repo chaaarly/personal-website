@@ -1,7 +1,7 @@
 ---
 title: "Home"
-date: 2017-10-05T16:55:42+02:00
-draft: true
+date: 2018-03-08T10:20:42+02:00
+draft: false
 # type: "about"
 #slug: "about-me"
 #layout: "about"
