@@ -12,7 +12,8 @@ Je suis Charlie, 34 ans, développeur et plus largement passionné par l'informa
 
 Durant mon parcours, j'ai eu la chance de travailler sur de nombreux projets web et mobiles, avec de nombreux clients issus de secteurs d'activité très variés. J'ai pu participer à toutes les phases d'un projet informatiques : avant-vente, prototypage, PoC, PoV, conception, réalisation, recette, maintenance. Afin d'en savoir plus sur mon parcours professionnel, je vous invite à consulter mon profil [LinkedIn](https://www.linkedin.com/in/chaaarly "Profil LinkedIn de Charlie Fougeray").
 
-Je suis le fière papa de 2 enfants. En dehors de mon métier, ma plus grosse passion est le golf. Quand il me reste un peu de temps entre ma famille, mon métier et ma passion, je le passe généralement à écouter des podast et à regarder des séries ou des films.
+Je suis le fier papa de 2 magnifiques enfants. En dehors de mon métier, ma grande passion est le golf. J'ai découvert ce sport il y a quelques années et j'ai été très vite accro ! Quand il me reste un peu de temps entre ma famille, mon métier et le golf, je le passe généralement à écouter des podasts ou à regarder des séries.
+
 <!--
 *[IoT]: Internet of Things 
 *[PoC]: Proof of Concept
