@@ -23,6 +23,7 @@ googleAnalytics = "UA-2239485-1"
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
     css = ["/css/custom.css"]
+    googleTagManager = "GTM-5L4T4B6"
 
 
 ### MAIN MENU
