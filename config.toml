@@ -29,6 +29,7 @@ googleAnalytics = "UA-2239485-1"
 ### MAIN MENU
 
 #[[menu.main]]
+#    identifier = "home"
 #    url = "/"
 #    name = "Accueil"
 #    weight = 1

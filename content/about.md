@@ -1,9 +1,12 @@
 ---
-title: "About"
+title: "À propos"
 date: 2017-10-05T16:55:42+02:00
 draft: true
 type: "about"
 #slug: "about"
 #layout: "about"
 ---
-Ce site est généré par [Hugo](https://gohugo.io) et le thème inspiré de [Minimal](https://github.com/calintat/minimal).
+* Pages générées par [Hugo](https://gohugo.io) 
+* Thème inspiré de [Minimal](https://github.com/calintat/minimal)
+* Sources versionnées sur [GitHub](https://github.com)
+* Site hébergé par [Netlify](https://www.netlify.com)
