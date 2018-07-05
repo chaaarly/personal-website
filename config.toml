@@ -7,7 +7,7 @@ googleAnalytics = "UA-2239485-1"
 
 [params]
     author = "Charlie Fougeray"
-    description = "from screen to green"
+    #description = "from screen to green"
     keywords = "Développeur, Consultant technique, Application Mobile, iOS, watchOS, tvOS, Objective-c, Swift, IoT, Domotique, Golf"
     place = "📍Bordeaux, France"
     avatar = "charlie-fougeray.png"
