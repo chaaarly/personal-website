@@ -13,7 +13,7 @@ googleAnalytics = "UA-2239485-1"
     avatar = "charlie-fougeray.png"
     favico = "favico.png"
     #copyright = "© 2018 Charlie Fougeray • [A propos](/about)"
-    copyright = "© 2018 Charlie Fougeray • Site généré par [Hugo](https://gohugo.io) et thème inspiré de [Minimal](https://github.com/calintat/minimal)"
+    copyright = "© 2018 Charlie Fougeray • Page générée par [Hugo](https://gohugo.io) • Thème inspiré de [Minimal](https://github.com/calintat/minimal)"
     githubUsername = "#chaaarly"
     accent = "#006747"
     showBorder = true
@@ -30,7 +30,7 @@ googleAnalytics = "UA-2239485-1"
 
 #[[menu.main]]
 #    url = "/"
-#    name = "Home"
+#    name = "Accueil"
 #    weight = 1
 
 #[[menu.main]]
