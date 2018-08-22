@@ -9,4 +9,4 @@ type: "about"
 * Pages générées par [Hugo](https://gohugo.io) 
 * Thème inspiré de [Minimal](https://github.com/calintat/minimal)
 * Sources versionnées sur [GitHub](https://github.com)
-* Site hébergé par [Netlify](https://www.netlify.com)
+* Site déployé et hébergé par [Netlify](https://www.netlify.com)
