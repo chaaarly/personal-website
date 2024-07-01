@@ -1,19 +1,17 @@
-{
-    "tracks": [
-        {
-            "id": 1,
-            "title": "Brief Beginner meditation",
-            "category": "Beginner"
-        },
-        {
-            "id": 2,
-            "title": "Beginner meditation",
-            "category": "Stress"
-        },
-        {
-            "id": 3,
-            "title": "Morning Meditation",
-            "category": "Anxiety"
-        }
-    ]
-}
+[
+    {
+        "id": 1,
+        "title": "Brief Beginner meditation",
+        "category": "Beginner"
+    },
+    {
+        "id": 2,
+        "title": "Beginner meditation",
+        "category": "Stress"
+    },
+    {
+        "id": 3,
+        "title": "Morning Meditation",
+        "category": "Anxiety"
+    }
+]

@@ -10,7 +10,7 @@ googleAnalytics = "UA-2239485-1"
     #description = "from screen to green"
     keywords = "Développeur, Consultant technique, Application Mobile, iOS, watchOS, tvOS, Objective-c, Swift, IoT, Domotique, Golf"
     place = "📍Bordeaux, France"
-    avatar = "charlie-fougeray.png"
+    avatar = "charlie-fougeray.jpg"
     favico = "favico.png"
     #copyright = "© 2018 Charlie Fougeray • [A propos](/about)"
     copyright = "© 2018 Charlie Fougeray • Page générée par [Hugo](https://gohugo.io) • Thème inspiré de [Minimal](https://github.com/calintat/minimal)"
@@ -50,11 +50,11 @@ googleAnalytics = "UA-2239485-1"
 # The list of available icons can be found at http://fontawesome.io/icons/
 
 [[menu.icon]]
-    identifier = "twitter"
+    identifier = "x-twitter"
     url = "https://twitter.com/chaaarly"
-    name = "Twitter"
+    name = "X (Twitter)"
     weight = 2
-    pre = "<i class='fab fa-twitter'></i>"
+    pre = "<i class='fab fa-x-twitter'></i>"
 
 [[menu.icon]]
     identifier = "instagram"
@@ -96,11 +96,11 @@ googleAnalytics = "UA-2239485-1"
 #    weight = 12
 #    pre = "<i class='fab fa-viadeo'></i>"
 
-[[menu.icon]]
-    identifier = "golf-ball"
-    url = "https://twitter.com/chaaarly_golf"
-    name = "Twitter 100% Golf"
-    weight = 20
+#[[menu.icon]]
+#    identifier = "golf-ball"
+#    url = "https://twitter.com/chaaarly_golf"
+#    name = "Twitter 100% Golf"
+#    weight = 20
 
 [[menu.icon]]
     identifier = "tv"
@@ -108,8 +108,8 @@ googleAnalytics = "UA-2239485-1"
     name = "TV Time"
     weight = 21
 
-[[menu.icon]]
-    identifier = "envelope"
-    url = "mailto:charlie[dot]fougeray[at]gmail[dot]com"
-    name = "Mail me !"
-    weight = 100
+#[[menu.icon]]
+#    identifier = "envelope"
+#    url = "mailto:charlie[dot]fougeray[at]gmail[dot]com"
+#    name = "Mail me !"
+#    weight = 100
