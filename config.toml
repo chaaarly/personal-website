@@ -13,7 +13,7 @@ googleAnalytics = "UA-2239485-1"
     avatar = "charlie-fougeray.jpg"
     favico = "favico.png"
     #copyright = "© 2018 Charlie Fougeray • [A propos](/about)"
-    copyright = "© 2018 Charlie Fougeray • Page générée par [Hugo](https://gohugo.io) • Thème inspiré de [Minimal](https://github.com/calintat/minimal)"
+    copyright = "© 2024 Charlie Fougeray • Page générée par [Hugo](https://gohugo.io) • Thème inspiré de [Minimal](https://github.com/calintat/minimal)"
     githubUsername = "#chaaarly"
     accent = "#006747"
     showBorder = true
@@ -50,11 +50,11 @@ googleAnalytics = "UA-2239485-1"
 # The list of available icons can be found at http://fontawesome.io/icons/
 
 [[menu.icon]]
-    identifier = "x-twitter"
+    identifier = "twitter"
     url = "https://twitter.com/chaaarly"
-    name = "X (Twitter)"
+    name = "Twitter (X)"
     weight = 2
-    pre = "<i class='fab fa-x-twitter'></i>"
+    pre = "<i class='fab fa-twitter'></i>"
 
 [[menu.icon]]
     identifier = "instagram"
@@ -107,6 +107,7 @@ googleAnalytics = "UA-2239485-1"
     url = "https://www.tvtime.com/en/user/69547/profile"
     name = "TV Time"
     weight = 21
+#    pre = "<i class='fa-solid fa-tv fa-sm'></i>"
 
 #[[menu.icon]]
 #    identifier = "envelope"
